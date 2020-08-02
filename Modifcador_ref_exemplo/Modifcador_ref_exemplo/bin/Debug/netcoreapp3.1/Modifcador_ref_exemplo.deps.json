@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Modifcador_ref_exemplo/1.0.0": {
+        "runtime": {
+          "Modifcador_ref_exemplo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modifcador_ref_exemplo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

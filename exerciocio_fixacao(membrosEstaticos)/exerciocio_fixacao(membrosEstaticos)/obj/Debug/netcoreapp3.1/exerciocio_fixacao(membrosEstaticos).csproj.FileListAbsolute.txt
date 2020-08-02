@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\bin\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exerciocio_fixacao(membrosEstaticos)\exerciocio_fixacao(membrosEstaticos)\obj\Debug\netcoreapp3.1\exerciocio_fixacao(membrosEstaticos).genruntimeconfig.cache

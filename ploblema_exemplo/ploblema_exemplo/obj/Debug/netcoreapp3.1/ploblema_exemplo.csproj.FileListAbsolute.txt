@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\bin\Debug\netcoreapp3.1\ploblema_exemplo.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\ploblema_exemplo\ploblema_exemplo\obj\Debug\netcoreapp3.1\ploblema_exemplo.genruntimeconfig.cache

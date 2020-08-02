@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\bin\Debug\netcoreapp3.1\Date_time.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Date_time\Date_time\obj\Debug\netcoreapp3.1\Date_time.genruntimeconfig.cache

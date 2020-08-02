@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\bin\Debug\netcoreapp3.1\problema_exemplo_2.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\problema_exemplo_2\problema_exemplo_2\obj\Debug\netcoreapp3.1\problema_exemplo_2.genruntimeconfig.cache

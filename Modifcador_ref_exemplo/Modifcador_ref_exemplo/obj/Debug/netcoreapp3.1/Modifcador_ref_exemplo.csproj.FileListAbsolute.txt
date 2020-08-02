@@ -1,0 +1,12 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\bin\Debug\netcoreapp3.1\Modifcador_ref_exemplo.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Modifcador_ref_exemplo\Modifcador_ref_exemplo\obj\Debug\netcoreapp3.1\Modifcador_ref_exemplo.genruntimeconfig.cache

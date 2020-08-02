@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\bin\Debug\netcoreapp3.1\Condicional_ternaria.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Condicional_ternaria\Condicional_ternaria\obj\Debug\netcoreapp3.1\Condicional_ternaria.genruntimeconfig.cache

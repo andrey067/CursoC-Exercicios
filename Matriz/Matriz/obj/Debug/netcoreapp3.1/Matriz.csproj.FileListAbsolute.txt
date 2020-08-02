@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache

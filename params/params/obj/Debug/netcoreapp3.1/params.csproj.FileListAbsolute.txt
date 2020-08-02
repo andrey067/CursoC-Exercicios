@@ -1,0 +1,12 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\bin\Debug\netcoreapp3.1\params.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\params\params\obj\Debug\netcoreapp3.1\params.genruntimeconfig.cache

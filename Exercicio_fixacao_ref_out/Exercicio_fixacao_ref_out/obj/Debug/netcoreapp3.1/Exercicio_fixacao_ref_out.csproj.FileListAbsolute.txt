@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\bin\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_ref_out\Exercicio_fixacao_ref_out\obj\Debug\netcoreapp3.1\Exercicio_fixacao_ref_out.genruntimeconfig.cache

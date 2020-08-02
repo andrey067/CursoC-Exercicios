@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\bin\Debug\netcoreapp3.1\Trabalho_Herrique.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Trabalho_Herrique\Trabalho_Herrique\obj\Debug\netcoreapp3.1\Trabalho_Herrique.genruntimeconfig.cache

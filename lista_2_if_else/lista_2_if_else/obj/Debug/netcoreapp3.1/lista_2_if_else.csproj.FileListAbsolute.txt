@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\bin\Debug\netcoreapp3.1\lista_2_if_else.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\lista_2_if_else\lista_2_if_else\obj\Debug\netcoreapp3.1\lista_2_if_else.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\bin\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_2_vetores\Problema_exemplo_2_vetores\obj\Debug\netcoreapp3.1\Problema_exemplo_2_vetores.genruntimeconfig.cache

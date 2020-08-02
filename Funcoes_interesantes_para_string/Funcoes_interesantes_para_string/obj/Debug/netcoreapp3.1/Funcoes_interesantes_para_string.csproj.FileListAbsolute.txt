@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\bin\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Funcoes_interesantes_para_string\Funcoes_interesantes_para_string\obj\Debug\netcoreapp3.1\Funcoes_interesantes_para_string.genruntimeconfig.cache

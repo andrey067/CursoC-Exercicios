@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\bin\Debug\netcoreapp3.1\TimesSpan_aula.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.genruntimeconfig.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\TimesSpan_aula\TimesSpan_aula\obj\Debug\netcoreapp3.1\TimesSpan_aula.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\bin\Debug\netcoreapp3.1\Lista_exemplos.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Lista_exemplos\Lista_exemplos\obj\Debug\netcoreapp3.1\Lista_exemplos.genruntimeconfig.cache

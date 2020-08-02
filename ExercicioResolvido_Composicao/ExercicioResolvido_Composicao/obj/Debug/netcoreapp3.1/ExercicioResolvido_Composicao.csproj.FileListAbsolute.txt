@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\bin\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\ExercicioResolvido_Composicao\ExercicioResolvido_Composicao\obj\Debug\netcoreapp3.1\ExercicioResolvido_Composicao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\bin\Debug\netcoreapp3.1\exercicios_1_recap.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exercicios_1_recap\exercicios_1_recap\obj\Debug\netcoreapp3.1\exercicios_1_recap.genruntimeconfig.cache

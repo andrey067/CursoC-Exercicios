@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\bin\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Exercicio_fixacao_vetores\Exercicio_fixacao_vetores\obj\Debug\netcoreapp3.1\Exercicio_fixacao_vetores.genruntimeconfig.cache
