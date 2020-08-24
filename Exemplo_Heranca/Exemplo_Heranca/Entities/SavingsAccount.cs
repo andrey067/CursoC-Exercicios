@@ -4,18 +4,22 @@ using System.Text;
 
 namespace Exemplo_Heranca.Entities
 {
-    class SavingsAccount : Account
+   sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
-        public SavingsAccount() { }
+        public SavingsAccount()
+        {
+        }
 
-        public SavingsAccount(int number, string holder, double balance,double interestRate) : base(number, holder, balance)
+        public SavingsAccount(int number, string holder, double balance, double interestRate)
+            : base(number, holder, balance)
         {
             InterestRate = interestRate;
-
         }
-        public void updateBalance() {
+
+        public void UpdateBalance()
+        {
             Balance += Balance * InterestRate;
         }
 
@@ -24,5 +28,6 @@ namespace Exemplo_Heranca.Entities
             base.Withdraw(amount);
             Balance -= 2.0;
         }
+
     }
 }

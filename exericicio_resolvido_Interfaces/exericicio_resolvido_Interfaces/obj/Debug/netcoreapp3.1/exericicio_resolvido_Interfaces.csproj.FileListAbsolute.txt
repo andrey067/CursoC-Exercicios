@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\bin\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\exericicio_resolvido_Interfaces\exericicio_resolvido_Interfaces\obj\Debug\netcoreapp3.1\exericicio_resolvido_Interfaces.genruntimeconfig.cache

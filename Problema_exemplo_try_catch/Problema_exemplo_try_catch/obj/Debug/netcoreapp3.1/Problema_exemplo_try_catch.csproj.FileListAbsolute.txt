@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\bin\Debug\netcoreapp3.1\Problema_exemplo_try_catch.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Problema_exemplo_try_catch\Problema_exemplo_try_catch\obj\Debug\netcoreapp3.1\Problema_exemplo_try_catch.genruntimeconfig.cache

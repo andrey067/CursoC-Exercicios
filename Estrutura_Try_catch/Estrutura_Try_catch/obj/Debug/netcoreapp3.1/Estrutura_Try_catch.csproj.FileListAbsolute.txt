@@ -1,0 +1,13 @@
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.exe
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.deps.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.runtimeconfig.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.runtimeconfig.dev.json
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\bin\Debug\netcoreapp3.1\Estrutura_Try_catch.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.csprojAssemblyReference.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.AssemblyInfoInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.AssemblyInfo.cs
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.dll
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.pdb
+D:\GoogleDrive\Curso C# Completo\Exercicios\Estrutura_Try_catch\Estrutura_Try_catch\obj\Debug\netcoreapp3.1\Estrutura_Try_catch.genruntimeconfig.cache
